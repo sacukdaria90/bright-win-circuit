@@ -1,0 +1,44 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D golden trophy cup, centered, deep navy radial gradient background, cyan rim light, crisp, no text"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game loader background, dark navy circuit board with faint glowing cyan traces, cinematic depth, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game menu background, neon workshop interior at night, violet and cyan light, vibrant 3D render, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game background, soft blurred dark navy circuit texture, low contrast for UI overlay, no text, no UI elements"
+    },
+    {
+      "name": "sprite_hero",
+      "type": "sprite",
+      "prompt": "One single cute cartoon neon line-worker robot holding a glowing light bulb, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_bulb",
+      "type": "sprite",
+      "prompt": "One single cute cartoon glowing light bulb, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_trophy",
+      "type": "sprite",
+      "prompt": "One single glossy 3D golden trophy cup, centered icon, cyan rim light, isolated on plain white, no other objects"
+    },
+    {
+      "name": "button_cta",
+      "type": "button",
+      "prompt": "Horizontal game CTA button background, cyan to violet neon gradient, glossy, rounded corners, no text"
+    }
+  ]
+}
